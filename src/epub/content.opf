@@ -44,39 +44,38 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008100220</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Satire</meta>
+		<dc:description id="description">A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>Denis, a young writer and poet, travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals. The younger guests of the manor grapple with navigating love and sex within a post-Victorian society. Older guests and inhabitants obsess over trivialities from their vast libraries, eager to give a show of their knowledge to a reluctant Denis. The novel uses these interactions to build a scathing representation of their insecurities and world views.</p>
+			<p><i>Crome Yellow</i> is <a href="https://standardebooks.org/ebooks/aldous-huxley">Aldous Huxley's</a> first published novel. Huxley's inspiration for many of the characters came from his time spent at Garsington Manor, a haven for many writers and poets of the time.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1999</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://books.google.com/books?id=bA-j9fLGI_wC</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Crome_Yellow</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/aldous-huxley_crome-yellow</meta>
 		<dc:creator id="author">Aldous Huxley</dc:creator>
 		<meta property="file-as" refines="#author">Huxley, Aldous</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Aldous Leonard Huxley</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Aldous_Huxley</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80057246</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Cecilia C. Foster</dc:contributor>
+		<meta property="file-as" refines="#artist">Foster, Cecilia C.</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Sue Asscher</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Asscher, Sue</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">James Luke</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Luke, James</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/jsluke</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
