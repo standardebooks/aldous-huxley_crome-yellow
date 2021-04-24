@@ -48,7 +48,7 @@
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Denis, a young writer and poet, travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals. The younger guests of the manor grapple with navigating love and sex within a post-Victorian society. Older guests and inhabitants obsess over trivialities from their vast libraries, eager to give a show of their knowledge to a reluctant Denis. The novel uses these interactions to build a scathing representation of their insecurities and world views.&lt;/p&gt;
+			&lt;p&gt;Denis, a young writer and poet, travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals. The younger guests of the manor grapple with navigating love and sex within a post-Victorian society. Older guests and inhabitants obsess over trivialities from their vast libraries, eager to give a show of their knowledge to each other. The novel uses these interactions to build a scathing representation of their insecurities and world views.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Crome Yellow&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/aldous-huxley"&gt;Aldous Huxley’s&lt;/a&gt; first published novel. Huxley’s inspiration for many of the characters came from his time spent at Garsington Manor, a haven for many writers and poets of the time.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
