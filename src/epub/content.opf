@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1999</dc:source>
 		<dc:source>https://books.google.com/books?id=bA-j9fLGI_wC</dc:source>
-		<meta property="se:word-count">58022</meta>
+		<meta property="se:word-count">58023</meta>
 		<meta property="se:reading-ease.flesch">65.42</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Crome_Yellow</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/aldous-huxley_crome-yellow</meta>
